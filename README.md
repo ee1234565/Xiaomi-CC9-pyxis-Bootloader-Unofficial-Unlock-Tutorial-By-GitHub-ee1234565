@@ -7,4 +7,5 @@
 **Step 4:** Re-enter 9008 mode and flash back the official ROM from *Picture 1*.  
 
 *The folder includes an authorization-free bootloader. If you don’t know how to use it, you can try "MouZei Toolbox" instead.* 
-**Don't forget to give me a star！**
+
+**If this tutorial is helpful to you,don't forget to give me a star！**
