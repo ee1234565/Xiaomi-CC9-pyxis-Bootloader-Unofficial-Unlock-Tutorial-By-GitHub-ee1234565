@@ -1,5 +1,5 @@
 # Xiaomi-CC9-pyxis-Bootloader-Unofficial-Unlock-Tutorial-By-GitHub-ee1234565
-**Unlock Bootloader for [Xiaomi CC9(pyxis)/Mi 9Lite(vela)] (Without Mi Account) - Tutorial**  
+**Unlock Bootloader for [Xiaomi CC9/Mi 9Lite(pyxis) and Xiaomi CC9 meitu(vela)] (Without Mi Account) - Tutorial**  
 
 **Step 1:** Flash the official ROM from *Picture 1* in 9008 mode.  
 **Step 2:** Re-enter 9008 mode and flash the files from the *Step2* folder.  
